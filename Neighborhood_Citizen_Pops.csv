@@ -1,0 +1,26 @@
+geo_name,geo_id,level,moe,Adult_Cit_M_wtd_sum,Adult_Cit_F_wtd_sum,Adult_Cit_T_wtd_sum,Adult_Not_T_wtd_sum,Youth_Cit_M_wtd_sum,Youth_Cit_F_wtd_sum,Youth_Cit_T_wtd_sum,Youth_Not_T_wtd_sum
+Blackstone,1,neighborhood,0,2565,2660,5224,286,736,729,1465,8
+Charles,2,neighborhood,0,2181,2200,4381,618,1003,644,1647,33
+College Hill,3,neighborhood,0,3891,3973,7864,922,266,282,548,32
+Downtown,4,neighborhood,0,1434,1840,3274,859,66,73,139,21
+Elmhurst,5,neighborhood,0,3806,5030,8836,283,766,512,1278,66
+Elmwood,6,neighborhood,0,2259,2857,5116,2554,1306,1382,2688,281
+Federal Hill,7,neighborhood,0,2980,2453,5432,1283,333,500,833,0
+Fox Point,8,neighborhood,0,2343,1854,4198,636,197,332,529,9
+Hartford,9,neighborhood,0,1400,1497,2896,1351,1110,936,2046,95
+Hope,10,neighborhood,0,1161,1513,2674,93,215,293,508,5
+Lower South Providence,11,neighborhood,0,1163,1735,2899,1538,858,886,1744,375
+Manton,12,neighborhood,0,1186,1798,2984,538,770,822,1592,12
+Mount Hope,13,neighborhood,0,1773,2065,3838,760,445,417,862,53
+Mount Pleasant,14,neighborhood,0,2375,3361,5736,1470,1100,1070,2170,170
+Olneyville,15,neighborhood,0,1320,1715,3035,1512,885,1244,2129,81
+Reservoir,16,neighborhood,0,786,1120,1906,418,375,291,666,74
+Silver Lake,17,neighborhood,0,2419,2569,4988,4004,1544,1782,3327,421
+Smith Hill,18,neighborhood,0,1554,1735,3289,1027,694,648,1343,118
+South Elmwood,19,neighborhood,0,443,459,902,217,187,102,289,34
+Upper South Providence,20,neighborhood,0,1057,1407,2463,754,703,581,1284,193
+Valley,21,neighborhood,0,1119,1263,2382,1006,890,867,1756,27
+Wanskuck,22,neighborhood,0,3297,4053,7350,1206,1679,1197,2876,182
+Washington Park,23,neighborhood,0,2551,2500,5051,1147,901,718,1619,192
+Wayland,24,neighborhood,0,1551,1631,3182,530,174,177,351,4
+West End,25,neighborhood,0,3460,4029,7489,4704,2014,2147,4161,615
